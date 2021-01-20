@@ -168,6 +168,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
 * [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered front-end apps with one command.
 * [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts. 
+* [hardhat-react](https://www.npmjs.com/package/@symfoni/hardhat-react) - Automagicaly have all your contracts compiled, deployed and injected in a React Hook context in your frontend. 
 
 #### Backend Ethereum APIs
 * [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
